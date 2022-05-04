@@ -2,9 +2,9 @@
 Currently a 3rd year Software Engineering student at the University of Victoria. 
 
 ## GitHub Stats
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=bhavanvir&show_icons=true&theme=react"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavanvir&layout=compact&show_icons=true&theme=react"/></td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/bhavanvir">
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhavanvir&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=react"/>
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhavanvir&layout=compact&langs_count=8&hide_border=true&theme=react"/>
+  </a>
+</p>
