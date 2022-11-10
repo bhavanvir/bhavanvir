@@ -4,7 +4,7 @@ Currently a 4th-year Software Engineering student at the University of Victoria.
 ## GitHub Stats
 <p>
   <a href="https://github.com/bhavanvir">
-    <img height=170em src="https://github-readme-stats.vercel.app/api?username=bhavanvir&show_icons=true&theme=dracula" />
-    <img height=170em src="https://github-readme-streak-stats.herokuapp.com/?user=bhavanvir&theme=dracula&" />
+    <img height=165em src="https://github-readme-stats.vercel.app/api?username=bhavanvir&show_icons=true&theme=dracula" />
+    <img height=165em src="https://github-readme-streak-stats.herokuapp.com/?user=bhavanvir&theme=dracula&" />
   </a>
 </p>
